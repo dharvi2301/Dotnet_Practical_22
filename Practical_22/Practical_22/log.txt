@@ -1,0 +1,2 @@
+15-05-2025 10:19:14: Fetched all employees
+15-05-2025 10:19:26: Fetched employee with ID 2

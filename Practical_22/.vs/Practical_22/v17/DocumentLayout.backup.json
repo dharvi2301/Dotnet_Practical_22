@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E86DBA-5AF9-4FD6-B481-57FF8D1F21D2}|DAL\\DAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_22\\practical_22\\dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E86DBA-5AF9-4FD6-B481-57FF8D1F21D2}|DAL\\DAL.csproj|solutionrelative:dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E86DBA-5AF9-4FD6-B481-57FF8D1F21D2}|DAL\\DAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_22\\practical_22\\dal\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E86DBA-5AF9-4FD6-B481-57FF8D1F21D2}|DAL\\DAL.csproj|solutionrelative:dal\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E86DBA-5AF9-4FD6-B481-57FF8D1F21D2}|DAL\\DAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_22\\practical_22\\dal\\data\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E86DBA-5AF9-4FD6-B481-57FF8D1F21D2}|DAL\\DAL.csproj|solutionrelative:dal\\data\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E86DBA-5AF9-4FD6-B481-57FF8D1F21D2}|DAL\\DAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_22\\practical_22\\dal\\data\\fileloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E86DBA-5AF9-4FD6-B481-57FF8D1F21D2}|DAL\\DAL.csproj|solutionrelative:dal\\data\\fileloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D550C840-D772-462A-AB3A-EAB13115126C}|Practical_22\\Practical_22.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_22\\practical_22\\practical_22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D550C840-D772-462A-AB3A-EAB13115126C}|Practical_22\\Practical_22.csproj|solutionrelative:practical_22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E86DBA-5AF9-4FD6-B481-57FF8D1F21D2}|DAL\\DAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_22\\practical_22\\dal\\models\\dto\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E86DBA-5AF9-4FD6-B481-57FF8D1F21D2}|DAL\\DAL.csproj|solutionrelative:dal\\models\\dto\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\DAL\\Models\\Department.cs",
+              "RelativeToolTip": "DAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:46:38.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\DAL\\Data\\DbService.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\DbService.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\DAL\\Data\\DbService.cs",
+              "RelativeToolTip": "DAL\\Data\\DbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:34:15.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\DAL\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\DAL\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "DAL\\Data\\EmployeeRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:33:43.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileLoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\DAL\\Data\\FileLoggerService.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\FileLoggerService.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\DAL\\Data\\FileLoggerService.cs",
+              "RelativeToolTip": "DAL\\Data\\FileLoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:33:16.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\Practical_22\\Program.cs",
+              "RelativeDocumentMoniker": "Practical_22\\Program.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\Practical_22\\Program.cs",
+              "RelativeToolTip": "Practical_22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:33:00.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\DAL\\Models\\DTO\\AddEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\DTO\\AddEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_22\\Practical_22\\DAL\\Models\\DTO\\AddEmployeeDTO.cs",
+              "RelativeToolTip": "DAL\\Models\\DTO\\AddEmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:25:02.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
