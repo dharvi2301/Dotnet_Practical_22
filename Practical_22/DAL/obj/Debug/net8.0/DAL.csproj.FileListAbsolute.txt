@@ -10,3 +10,4 @@ C:\Users\dharvi.patel\GitHub\Dotnet_Practical_22\Practical_22\DAL\obj\Debug\net8
 C:\Users\dharvi.patel\GitHub\Dotnet_Practical_22\Practical_22\DAL\obj\Debug\net8.0\refint\DAL.dll
 C:\Users\dharvi.patel\GitHub\Dotnet_Practical_22\Practical_22\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\dharvi.patel\GitHub\Dotnet_Practical_22\Practical_22\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\dharvi.patel\GitHub\Dotnet_Practical_22\Practical_22\DAL\obj\Debug\net8.0\DAL.sourcelink.json

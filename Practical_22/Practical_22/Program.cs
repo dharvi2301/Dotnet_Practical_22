@@ -9,8 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<EmployeeRepository>();
-builder.Services.AddSingleton<ILoggerService, FileLoggerService>();
+builder.Services.AddSingleton<EmployeeRepository>();
 
 var app = builder.Build();
 

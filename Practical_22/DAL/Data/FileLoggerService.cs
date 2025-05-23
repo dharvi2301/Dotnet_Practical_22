@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace DAL.Data
 {
-    public class FileLoggerService:ILoggerService
+    public sealed class FileLoggerService:ILoggerService
     {
+        private static readonly FileLoggerService _instance = new FileLoggerService(); //Singleton implementation
         private readonly string logFile = "log.txt";
 
         public FileLoggerService()
@@ -15,6 +16,8 @@ namespace DAL.Data
             if (!File.Exists(logFile))
                 File.Create(logFile).Close();
         }
+
+        public static FileLoggerService Instance => _instance;
 
         public void Log(string message)
         {

@@ -81,3 +81,4 @@ C:\Users\dharvi.patel\GitHub\Dotnet_Practical_22\Practical_22\Practical_22\obj\D
 C:\Users\dharvi.patel\GitHub\Dotnet_Practical_22\Practical_22\Practical_22\obj\Debug\net8.0\Practical_22.pdb
 C:\Users\dharvi.patel\GitHub\Dotnet_Practical_22\Practical_22\Practical_22\obj\Debug\net8.0\Practical_22.genruntimeconfig.cache
 C:\Users\dharvi.patel\GitHub\Dotnet_Practical_22\Practical_22\Practical_22\obj\Debug\net8.0\ref\Practical_22.dll
+C:\Users\dharvi.patel\GitHub\Dotnet_Practical_22\Practical_22\Practical_22\obj\Debug\net8.0\Practical_22.sourcelink.json

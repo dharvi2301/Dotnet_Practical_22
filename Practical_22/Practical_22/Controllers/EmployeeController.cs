@@ -10,13 +10,12 @@ namespace Practical_22.Controllers
     public class EmployeeController : ControllerBase
     {
         private readonly EmployeeRepository _repo;
-        private readonly ILoggerService _logger;
+        private readonly ILoggerService _logger=FileLoggerService.Instance;
 
         // Inject both repository and logger via constructor
-        public EmployeeController(EmployeeRepository repo, ILoggerService logger)
+        public EmployeeController(EmployeeRepository repo)
         {
             _repo = repo;
-            _logger = logger;
         }
 
         [HttpGet("{id}")]
